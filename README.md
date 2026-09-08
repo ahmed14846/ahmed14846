@@ -1,26 +1,29 @@
-Hi, I'm Ahmed Abbad👋
+# Hi, I'm Ahmed Abbad 👋
 
 I'm a Software Engineering Graduate interested in Artificial Intelligence, backend development, and full-stack web development.
 
 I enjoy building practical applications and learning how different technologies work together to create useful software.
 
-About Me
-🎓 Software Engineering Graduate
-🤖 Interested in Artificial Intelligence and Machine Learning
-💻 Focused on Backend Development and Full-Stack Web Development
-🌐 Interested in modern Web Development and Software Engineering
-🛠️ Learning through hands-on projects and continuous experimentation
-🚀 Interested in building practical and real-world applications
-Tech Stack
+## About Me
 
-AI / Machine Learning
+* 🎓 Software Engineering Graduate
+* 🤖 Interested in Artificial Intelligence and Machine Learning
+* 💻 Focused on Backend Development and Full-Stack Web Development
+* 🌐 Interested in modern Web Development and Software Engineering
+* 🛠️ Learning through hands-on projects and continuous experimentation
+* 🚀 Interested in building practical and real-world applications
 
-Python · PyTorch · OpenCV · NumPy · Pandas · Scikit-learn · RAG · LLMs
+## Tech Stack
 
-Development
+**AI / Machine Learning**
 
-Java · Python · JavaScript · React · HTML · CSS · SQL · MySQL · FastAPI
+`Python` · `PyTorch` · `OpenCV` · `NumPy` · `Pandas` · `Scikit-learn` · `RAG` · `LLMs`
 
-DevOps / Tools
+**Development**
 
-Git · GitHub · Linux · Docker · Jenkins · Kubernetes
+`Java` · `Python` · `JavaScript` · `React` · `HTML` · `CSS` · `SQL` · `MySQL` · `FastAPI`
+
+**DevOps / Tools**
+
+`Git` · `GitHub` · `Linux` · `Docker` · `Jenkins` · `Kubernetes`
+
