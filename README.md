@@ -6,7 +6,7 @@ I enjoy building practical applications and learning how different technologies 
 
 ## About Me
 
-* 🎓 Software Engineering Graduate
+* 🌐 Studied Full-Stack Development and modern Web Development
 * 🤖 Interested in Artificial Intelligence and Machine Learning
 * 💻 Focused on Backend Development and Full-Stack Web Development
 * 🌐 Interested in modern Web Development and Software Engineering
